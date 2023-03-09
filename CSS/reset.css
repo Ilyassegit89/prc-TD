@@ -1,0 +1,14 @@
+@import url('/CSS/navBar.css');
+@import url('/CSS/hero-part.css');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: black !important;
+
+}
+
+:root{
+    --primary-color: #2988fe;
+}
